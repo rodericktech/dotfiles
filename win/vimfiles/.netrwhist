@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='D:/mmr/seoa'
+let g:netrw_dirhist_2='Y:/mmr/seoa/notes'
+let g:netrw_dirhist_3='Y:/mmr/seoa/notes/laracon_online'
+let g:netrw_dirhist_4='Y:/mmr/seoa/notes'
+let g:netrw_dirhist_5='Y:/mmr/seoa'
